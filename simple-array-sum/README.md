@@ -1,5 +1,7 @@
 # Problem
 
+Problem source: [https://www.hackerrank.com/challenges/simple-array-sum/problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)
+
 Given an array of integers, find the sum of its elements.
 
 For example, if the array `ar = [1,2,3], 1 + 2 + 3 = 6`, so return `6`.
@@ -24,7 +26,7 @@ The second line contains **n** space-separated integers representing the array's
 Print the sum of the array's elements as a single integer.
 
 ### Sample Input
-`6`
+`6` <br />
 `1, 2, 3, 4, 10, 11` 
 
 ### Sample Output
