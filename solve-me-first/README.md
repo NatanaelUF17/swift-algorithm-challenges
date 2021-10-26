@@ -5,8 +5,8 @@ Problem source: [https://www.hackerrank.com/challenges/solve-me-first/problem](h
 Complete the function solveMeFirst to compute the sum of two integers.
 
 ### Example
- a = **7**
- b = **3**
+ `a = 7` <br />
+ `b = 3`
 
 Return **10**
 
@@ -21,11 +21,11 @@ solveMeFirst has the following parameters:
 Returns
 - int: the sum of **a** and **b** 
 
-Constraints.
-1 <= a, b <= 1000
+### Constraints
+`1 <= a, b <= 1000`
 
 ### Sample Input
-`a = 2`
+`a = 2` <br />
 `b = 3`
 
 ### Sample Output
